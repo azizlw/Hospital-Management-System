@@ -6,3 +6,7 @@ This is a backend Hospital Management System built with Spring Boot. It provides
 - Spring Data JPA
 - Spring Security
 - PostgreSQL
+
+### JWT Authentication Added
+- Implemented JWT-based authentication for secure API access.
+- Users must log in to receive a token and access protected routes.
